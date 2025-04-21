@@ -55,8 +55,8 @@
 
 
 
-### Name:
-### Register Number: 
+### Name:RANJITH JK
+### Register Number: 212224230221
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
